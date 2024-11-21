@@ -1,1 +1,1 @@
-# stu-mini-project
+# portfolio_lydia_ogles
